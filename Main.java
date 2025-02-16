@@ -11,7 +11,7 @@ public class Main {
 
         int[] array = {50, -20, 0, 30, 40, 60, 10};
 
-        // is length greater than or equal to 2
+       
 
             // are first and last elements the same
             if (array[0] == array[array.length - 1]) {
